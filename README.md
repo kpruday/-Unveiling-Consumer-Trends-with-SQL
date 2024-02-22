@@ -1,4 +1,4 @@
-# -Unveiling-Consumer-Trends-with-SQL
+# Unveiling-Consumer-Trends-with-SQL
 
 **Project Overview: Leveraging SQL for Consumer Goods Data Analysis**
 - Dataset consists of 17 columns and 1000 rows, including sales details, customer information, and product data.
